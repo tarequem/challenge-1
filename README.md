@@ -13,4 +13,5 @@
 * see /previous-version for build prior to refactoring. 
 
 # Contributors
-* Tareque M
+* TarequeM 
+* Xandromus
