@@ -1,8 +1,6 @@
 # Horiseon
 
-# URL for GitHub repository and live URL
-* https://github.com/tarequem/tareque-challenge-1.git
-* git@github.com:tarequem/tareque-challenge-1.git
+# URL for live URL
 * https://tarequem.github.io/tareque-challenge-1/
 
 ![screenshot](/horiseon-snapshot.png)
